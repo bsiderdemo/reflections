@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Reducir la búsqueda del bug solo sobre las líneas de código que cambiaron es mucho más fácil que revisar el archivo fuente completo.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Se puede medir el esfuerzo total del desarrollo e identificar errores de programación que se pueden evitar en futuros proyectos.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros: solo se guardan versiones con cambios significativos y se etiqueta de forma descriptiva el cambio, es fácil ver la historia y comparar versiones.
+    cons: se nos puede olvitar realizar un commit ya que depende del programador
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Porque Git se centra en el control de versiones de código, casi siempre la implementación de una funcionalidad comprende más de un archivo.
+    Google Docs se enfoca en documentos de oficina, los cuáles son independientes entre si.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lista todos los cambios (commits) en el orden en que se han realizado, es una bitácora de cambios.
+    git diff compara se puede usar para comparar la versión del repositorio remoto vs versión local vs versión en staging.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Con el control de versiones podemos crear ramas paralelas a la principal y desarrollar sobre ellas. Después de probar el resultado final se pueden deshechar o bien formar parte de la rama principal. Cuando hablamos de un archivo en particular, la seguridad de poder recuperar la versión anterior hace que seamos más osados y creativos e incluso podamos poner de cabeza la implementación anterior. Se siente como cuando empezamos a escribir la implementación.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
