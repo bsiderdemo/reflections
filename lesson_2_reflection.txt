@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+I need to add items to it and then make your first commit to start using version control system.
