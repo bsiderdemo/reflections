@@ -9,3 +9,6 @@ All files that compose a logical change must be added to staging are to become l
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 experiment a solution or a new feature
+
+How do the diagrams help you visualize the branch structure?
+The grapsh shows all different paths from init commit and it could use to merge branches or identify what commits are unreacheable from ever label
