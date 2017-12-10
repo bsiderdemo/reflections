@@ -1,2 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 I need to add items to it and then make your first commit to start using version control system.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a containner that git uses to pack all related changes and label it as one commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+All files that compose a logical change must be added to staging are to become later into a commit id.
+
