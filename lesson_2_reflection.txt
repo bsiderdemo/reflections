@@ -18,3 +18,7 @@ The combination of two branches in a single one
 
 Why do we represent it in the diagram the way we do?
 because the graphical representation is more easy to understand
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: there are a lot of time saving
+cons: eventually you need to merge manually
