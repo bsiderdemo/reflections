@@ -12,3 +12,9 @@ experiment a solution or a new feature
 
 How do the diagrams help you visualize the branch structure?
 The grapsh shows all different paths from init commit and it could use to merge branches or identify what commits are unreacheable from ever label
+
+What is the result of merging two branches together? 
+The combination of two branches in a single one
+
+Why do we represent it in the diagram the way we do?
+because the graphical representation is more easy to understand
