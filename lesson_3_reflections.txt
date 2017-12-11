@@ -15,3 +15,7 @@ branches. create a commit labeled that represents a new path.
 Use forks to get a copy of a repository on github but under your user name.
 Use clone to create a local copy.
 Use branch to experiment a new feature or maintain different versions of your code, e.g. different languages.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It makes possible to compare with remote version and resolve possible conflicts to merge.
